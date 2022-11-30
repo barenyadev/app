@@ -15,6 +15,3 @@ def main():
   else:
     r=n3
   st.success('the output is {}'.format(r))
-
-if _name=='Main':
-  main()
